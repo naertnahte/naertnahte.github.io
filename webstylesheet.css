@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    width: 640px;
+}
+
+p, li {
+    font-size: 13px;
+}
+
+.under-construction {
+    width: 250px;
+    margin: auto;
+    display: block;
+}
+
+img, table {
+    width: 100%;
+}
+
+a {
+    color: green;
+}
+
+.link-header {
+    color: white;
+    text-decoration: none;
+}
+
+.subtitle {
+    font-size: 8px;
+    padding: 0px 5px 0px 5px;
+    text-align: center;
+}
