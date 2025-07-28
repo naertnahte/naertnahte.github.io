@@ -9,6 +9,17 @@ p, li {
     font-size: 13px;
 }
 
+.smallbutton {
+    height: 20px;
+    width: auto;
+}
+
+.portfolio {
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+
 .under-construction {
     width: 250px;
     margin: auto;
